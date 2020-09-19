@@ -5,8 +5,9 @@ public abstract class CalculationProcess {
 
     /**
      * Вычислить ответ из переданных аргументов
-     * @param value1 первое число
-     * @param value2 второе число
+     *
+     * @param value1    первое число
+     * @param value2    второе число
      * @param operation операция
      * @return ответ
      * @throws ArithmeticException если введена не верная операция
